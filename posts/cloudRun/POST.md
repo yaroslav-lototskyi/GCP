@@ -1,1 +1,1 @@
-# Cloud Run
+# Deploy the project on GCP. Cloud Run the basis for your services.
